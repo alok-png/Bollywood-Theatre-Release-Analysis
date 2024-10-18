@@ -1,1 +1,4 @@
-# bollywoodproject
+# Bollywood Theatre Release Analysis 
+The "Bollywood Theatre Release Analysis" project examines factors influencing Bollywood movie success in theatres. Data was collected via web scraping from IMDb and Wikipedia using Python's BeautifulSoup, focusing on movie releases, box office performance, genres, directors, and actors. After cleaning the data, tools like Pandas and NumPy were used to analyze trends, including box office performance, genre preferences, and the impact of directors and actors.
+
+The analysis also explores reasons for Bollywood's recent decline, such as shifting audience tastes, the rise of streaming platforms, and content quality issues. Data visualizations, created with Matplotlib and Seaborn, highlight key insights. The project offers recommendations for industry stakeholders to navigate these challenges and adapt to the changing entertainment landscape.
